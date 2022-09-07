@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/react-app-auth/static/js/main.9ca03f12.js",
+    "static/media/cat.gif": "/react-app-auth/static/media/cat.7869f2427bc41bca74f1.gif",
+    "index.html": "/react-app-auth/index.html",
+    "main.9ca03f12.js.map": "/react-app-auth/static/js/main.9ca03f12.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.9ca03f12.js"
+  ]
+}
